@@ -125,6 +125,8 @@ http://190.83.85.68/cinemax/index.m3u8
 http://45.162.64.114/TCM/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,LIFETIME
 http://45.190.28.50/LIFE_TIME_HD/index.m3u8
+#EXTINF:-1,NICKELODEON ONLINE 
+https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1,CARTOON NETWORK
 https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1,CARTOONITO
