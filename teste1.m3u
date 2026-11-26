@@ -2,7 +2,7 @@
 #EXTINF:-1,ESPN 
 http://138.204.86.4:8080/ESPN_HD/index.m3u8
 #EXTINF:-1,ESPN 2
-http://167.249.161.78/ESPN_INTERNACIONAL/index.m3u8
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 #EXTINF:-1,ESPN 3
 http://167.249.161.78/ESPN_MAIS/index.m3u8
 #EXTINF:-1,ESPN 4
@@ -21,3 +21,35 @@ http://dns.explouddev.com/live/992005733/61992005733/121598.m3u8
 http://dns.explouddev.com/live/992005733/61992005733/121600.m3u8
 #EXTINF:-1,HBO MAX 3
 http://dns.explouddev.com/live/992005733/61992005733/121604.m3u8
+#EXTINF:-1,N SPORTS
+https://cdn-5.nxplay.com.br/NSPORTS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,PARAMOUNT + 1
+http://45.134.141.161:2200/BRX/Paramount_Plus_HD/index.m3u8
+#EXTINF:-1,PARAMOUNT + 2
+http://45.134.141.161:2200/BRX/Paramount2_Plus_HD/index.m3u8
+#EXTINF:-1,PARAMOUNT + 3 
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
+#EXTINF:-1,PARAMOUNT + 4
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
+#EXTINF:-1,PREMIERE CLUBES
+https://manotv.s.gy/Pr01/index.m3u8
+#EXTINF:-1,PREMIERE CLUBES 2
+https://manotv.s.gy/Pr2/index.m3u8
+#EXTINF:-1,PREMIERE CLUBES 3
+https://manotv.s.gy/Pr3/index.m3u8
+#EXTINF:-1,PREMIERE CLUBES 4
+https://manotv.s.gy/Pr4/index.m3u8
+#EXTINF:-1,PREMIERE CLUBES 5
+https://manotv.s.gy/Pr5/index.m3u8
+#EXTINF:-1,PREMIERE SPORTV
+https://manotv.s.gy/Sp1/index.m3u8
+#EXTINF:-1,PREMIERE SPORTV 2
+https://manotv.s.gy/Sp2/index.m3u8
+#EXTINF:-1,PREMIERE SPORTV 3
+https://manotv.s.gy/Sp3/index.m3u8
+#EXTINF:-1,PREMIERE FIFA+
+https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1,N TELECINE PREMIUM
+http://45.185.15.154:9080/stream/28/index.m3u8
+#EXTINF:-1,N TELECINE PIPOCA
+http://45.185.15.154:9080/stream/30/index.m3u8
