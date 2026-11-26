@@ -126,7 +126,7 @@ http://45.162.64.114/TCM/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,LIFETIME
 http://45.190.28.50/LIFE_TIME_HD/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
-http://170.83.49.66:8083/CARTOONHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1,CARTOONITO
 http://138.204.86.4:8080/BOOMERANG_HD/index.m3u8
 #EXTINF:-1,DISCOVERY KIDS
